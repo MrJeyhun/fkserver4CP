@@ -1,68 +1,94 @@
 {
   "data": [
-    [
-      "Can Aykurt",
-      "caykurt@mapspot.com",
-      "+905125555525",
-      "06.03.2020",
-      "19",
-      "Empty"
-    ],
-    [
-      "Bahar Demirel",
-      "bdemirel@mapspot.com",
-      "+905125555526",
-      "17.03.2020",
-      "6",
-      "Empty"
-    ],
-    [
-      "Alper Candan",
-      "alperc@mapspot.com",
-      "+905125555527",
-      "12.03.2020",
-      "17",
-      "Busy"
-    ],
-    [
-      "Babacan Akdemir",
-      "b.akdemir@mapspot.com",
-      "+905125555528",
-      "22.03.2020",
-      "2",
-      "Empty"
-    ],
-    [
-      "Yusuf Atakan",
-      "y.atakan@mapspot.com",
-      "+905125555529",
-      "21.03.2020",
-      "3",
-      "Empty"
-    ],
-    [
-      "Raci Şaşmaz",
-      "rsasmaz@mapspot.com",
-      "+905125555530",
-      "08.03.2020",
-      "27",
-      "Empty"
-    ],
-    [
-      "Mehmet Aksoy",
-      "maksoy@mapspot.com",
-      "+905125555531",
-      "11.03.2020",
-      "15",
-      "Busy"
-    ],
-    [
-      "Asena Bademci",
-      "abademci@mapspot.com",
-      "+905125555532",
-      "16.03.2020",
-      "12",
-      "Busy"
-    ]
+    {
+      "name": "Can Aykurt",
+      "id": "21",
+      "date": "06.03.2020",
+      "email": "caykurt@mapspot.com",
+      "phone": "+9051223555618",
+      "status": "delete",
+      "totaltasks": 26
+    },
+    {
+      "name": "Bahar Demirel",
+      "id": "22",
+      "date": "09.03.2020",
+      "email": "bdemirel@mapspot.com",
+      "phone": "+9051223555525",
+      "status": "approved",
+      "totaltasks": 22
+    },
+    {
+      "name": "Alper Candan",
+      "id": "23",
+      "date": "11.03.2020",
+      "email": "alperc@mapspot.com",
+      "phone": "+905125254525",
+      "status": "progress",
+      "totaltasks": 17
+    },
+    {
+      "name": "Babacan Akdemir",
+      "id": "24",
+      "date": "12.03.2020",
+      "email": "b.akdemir@mapspot.com",
+      "phone": "+905123455525",
+      "status": "done",
+      "totaltasks": 14
+    },
+    {
+      "name": "Yusuf Atakan",
+      "id": "25",
+      "date": "12.03.2020",
+      "email": "y.atakan@mapspot.com",
+      "phone": "+905125555525",
+      "status": "done",
+      "totaltasks": 15
+    },
+    {
+      "name": "Raci Şaşmaz",
+      "id": "26",
+      "date": "06.04.2020",
+      "email": "rsasmaz@mapspot.com",
+      "phone": "+905125598525",
+      "status": "approved",
+      "totaltasks": 6
+    },
+    {
+      "name": "Mehmet Aksoy",
+      "id": "27",
+      "date": "16.04.2020",
+      "email": "maksoy@mapspot.com",
+      "phone": "+905125545625",
+      "status": "delete",
+      "totaltasks": 11
+    },
+    {
+      "name": "Asena Bademci",
+      "id": "28",
+      "date": "11.04.2020",
+      "email": "abademci@mapspot.com",
+      "phone": "+905125558765",
+      "status": "delete",
+      "totaltasks": 14
+    },
+    {
+      "name": "Ahmet Bademci",
+      "id": "29",
+      "date": "18.04.2020",
+      "email": "ahmet.b@mapspot.com",
+      "phone": "+905125323525",
+      "status": "progress",
+      "totaltasks": 13
+    },
+    {
+      "name": "Leyla Bademci",
+      "id": "30",
+      "date": "16.04.2020",
+      "email": "leyla.b@mapspot.com",
+      "phone": "+90512559L8725",
+      "status": "progress",
+      "totaltasks": 5
+    }
   ]
 }
